@@ -158,7 +158,7 @@ print_r($data);
 
 **Muhammad Usama**  
 📧 Email: *uxeerorg@gmail.com*  
-🌐 GitHub: [github.com/yourusername](https://github.com/uxeerorg)
+🌐 GitHub: [github.com/uxeerorg](https://github.com/uxeerorg)
 
 ---
 
